@@ -1,0 +1,16 @@
+.container {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+h1 {
+  font-family: "Ubuntu", sans-serif;
+}
+h2,
+p {
+  font-family: "Source Sans Pro", sans-serif;
+}
+p {
+  font-size: 25px;
+}
+.description {
+  text-transform: capitalize;
+}
