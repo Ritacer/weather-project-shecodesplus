@@ -12,7 +12,7 @@ p {
   font-size: 25px;
 }
 small {
-  float: inline-end;
+  float: 20px;
 }
 .description {
   text-transform: capitalize;
