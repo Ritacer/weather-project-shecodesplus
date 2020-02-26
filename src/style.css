@@ -1,8 +1,10 @@
 .container {
-  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+  background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
   border-radius: 15px;
-  border-color: aqua;
-  border-width: medium;
+  border: solid;
+  border-color: aquamarine;
+  border-width: thin;
+  padding: 10px 15px;
 }
 h1 {
   font-family: "Ubuntu", sans-serif;
@@ -20,4 +22,10 @@ small {
 }
 .description {
   text-transform: capitalize;
+}
+.wind {
+  font-size: 20px;
+}
+.humidity {
+  font-size: 20px;
 }
