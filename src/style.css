@@ -11,6 +11,9 @@ p {
 p {
   font-size: 25px;
 }
+small {
+  float: right;
+}
 .description {
   text-transform: capitalize;
 }
