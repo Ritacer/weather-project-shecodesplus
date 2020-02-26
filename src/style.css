@@ -1,7 +1,8 @@
 .container {
   background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
-  border-radius: 20px;
+  border-radius: 15px;
   border-color: aqua;
+  border-width: medium;
 }
 h1 {
   font-family: "Ubuntu", sans-serif;
