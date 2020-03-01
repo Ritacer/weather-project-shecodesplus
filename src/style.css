@@ -13,6 +13,13 @@ h2,
 p {
   font-family: "Source Sans Pro", sans-serif;
 }
+h2 .active {
+  color: black;
+  cursor: default;
+}
+h2 .active:hover {
+  text-decoration: none;
+}
 p {
   font-size: 25px;
 }
